@@ -10,6 +10,6 @@ Paste the MollyTalk.dll in the SharpStar/addins folder.
 Edit messages and settings in mollytalk.json, restart your for edits to apply!
 
 Commands:
-/mt
-/mt help - List commands
-/mt say - Speak as Molly! (Permission: mollytalk.say )
+* /mt
+* /mt help - List commands
+* /mt say - Speak as Molly! (Permission: mollytalk.say )
